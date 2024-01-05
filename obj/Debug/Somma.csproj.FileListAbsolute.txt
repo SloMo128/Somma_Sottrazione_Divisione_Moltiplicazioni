@@ -1,0 +1,7 @@
+C:\Users\Alessandro\Desktop\Progetti\Somma\bin\Debug\Somma.exe.config
+C:\Users\Alessandro\Desktop\Progetti\Somma\bin\Debug\Somma.exe
+C:\Users\Alessandro\Desktop\Progetti\Somma\bin\Debug\Somma.pdb
+C:\Users\Alessandro\Desktop\Progetti\Somma\obj\Debug\Somma.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\Progetti\Somma\obj\Debug\Somma.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\Progetti\Somma\obj\Debug\Somma.exe
+C:\Users\Alessandro\Desktop\Progetti\Somma\obj\Debug\Somma.pdb
